@@ -1,14 +1,34 @@
-# Davin-Data-Analytics
-This repository serves as a curated portfolio showcasing my journey and expertise as a Data Analyst. 
-It is designed to demonstrate my proficiency in data processing, exploration, and visualization using a variety of tools and techniques.
-Each project reflects practical applications of data analytics principles to transform raw data into actionable insights.
+ 🗄 MySQL Projects – Data Analyst Portfolio
 
-Contents
-- Data Cleaning in MySQL
-  Projects focused on identifying, correcting, and standardizing data to ensure accuracy and consistency.
-- Exploratory Data Analysis (EDA) in MySQL
-  Analytical workflows exploring datasets to uncover patterns, detect anomalies, and generate hypotheses.
-- Data Cleaning and Visualization in Excel
-  End-to-end processes involving dataset preparation and the creation of clear, impactful visualizations for reporting purposes.
+This branch contains my data analytics projects using **MySQL**, focusing on data cleaning and exploratory data analysis (EDA).
 
-This repository will continue to grow with diverse projects that highlight my analytical skills, technical capabilities, and ability to turn data into meaningful insights.
+---
+
+## 📌 Project List
+
+### 1. **Data Cleaning in MySQL**
+- **Objective:** Identify, clean, and standardize inconsistent data for improved accuracy and usability.
+- **Tools:** MySQL
+- **Skills:** String manipulation, NULL handling, duplicate removal, data normalization.
+
+---
+
+### 2. **Exploratory Data Analysis (EDA) in MySQL**
+- **Objective:** Explore datasets to find trends, detect anomalies, and generate insights for decision-making.
+- **Tools:** MySQL
+- **Skills:** Aggregation, joins, filtering, grouping, and statistical queries.
+
+---
+
+## 🚀 Skills Demonstrated
+- Writing efficient SQL queries  
+- Data transformation & preprocessing  
+- Pattern detection & anomaly identification  
+- Generating summary reports from large datasets  
+
+---
+
+## 📬 Contact
+- **Name:** Davin Athallariq Ghifari
+- **LinkedIn:** (https://www.linkedin.com/in/davin-athallariq-8551a92b1/)  
+- **Email:** (davinathallariq@gmail.com)

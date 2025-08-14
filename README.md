@@ -1,4 +1,4 @@
- 🗄 MySQL Projects – Data Analyst Portfolio
+ MySQL Projects – Data Analyst Portfolio
 
 This branch contains my data analytics projects using **MySQL**, focusing on data cleaning and exploratory data analysis (EDA).
 
@@ -20,7 +20,7 @@ This branch contains my data analytics projects using **MySQL**, focusing on dat
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Writing efficient SQL queries  
 - Data transformation & preprocessing  
 - Pattern detection & anomaly identification  

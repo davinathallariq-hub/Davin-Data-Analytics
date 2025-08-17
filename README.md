@@ -1,14 +1,34 @@
-# Davin-Data-Analytics
-This repository serves as a curated portfolio showcasing my journey and expertise as a Data Analyst. 
-It is designed to demonstrate my proficiency in data processing, exploration, and visualization using a variety of tools and techniques.
-Each project reflects practical applications of data analytics principles to transform raw data into actionable insights.
+# 📊 Excel Projects – Data Analyst Portfolio
 
-Contents
-- Data Cleaning in MySQL
-  Projects focused on identifying, correcting, and standardizing data to ensure accuracy and consistency.
-- Exploratory Data Analysis (EDA) in MySQL
-  Analytical workflows exploring datasets to uncover patterns, detect anomalies, and generate hypotheses.
-- Data Cleaning and Visualization in Excel
-  End-to-end processes involving dataset preparation and the creation of clear, impactful visualizations for reporting purposes.
+This branch contains my data analytics projects using **Microsoft Excel**, with a focus on data cleaning, visualization, and dashboard creation.
 
-This repository will continue to grow with diverse projects that highlight my analytical skills, technical capabilities, and ability to turn data into meaningful insights.
+---
+
+## 📌 Project List
+
+### 1. **Data Cleaning in Excel**
+- **Objective:** Prepare and standardize raw datasets for accurate analysis.
+- **Tools:** Microsoft Excel
+- **Skills:** Removing duplicates, handling missing data, text-to-columns, conditional formatting.
+
+---
+
+### 2. **Data Visualization & Dashboarding**
+- **Objective:** Create clear and impactful dashboards for data-driven decision-making.
+- **Tools:** Microsoft Excel
+- **Skills:** PivotTables, PivotCharts, slicers, advanced charting techniques.
+
+---
+
+## 🚀 Skills Demonstrated
+- Data cleaning & preprocessing in Excel  
+- Dashboard creation & visualization best practices  
+- Data storytelling through visuals  
+- Reporting for stakeholders  
+
+---
+
+## 📬 Contact
+- **Name:** Davin  
+- **LinkedIn:** [Your LinkedIn URL]  
+- **Email:** [Your Email]

@@ -29,6 +29,6 @@ This branch contains my data analytics projects using **Microsoft Excel**, with 
 ---
 
 ## 📬 Contact
-- **Name:** Davin  
-- **LinkedIn:** [Your LinkedIn URL]  
-- **Email:** [Your Email]
+- **Name:** Davin Athallariq Ghifari
+- **LinkedIn:** (https://www.linkedin.com/in/davin-athallariq-8551a92b1/)
+- **Email:** [davinathallariq@gmail.com]

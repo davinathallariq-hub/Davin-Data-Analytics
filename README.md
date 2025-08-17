@@ -1,4 +1,4 @@
-# 📊 Excel Projects – Data Analyst Portfolio
+# Excel Projects – Data Analyst Portfolio
 
 This branch contains my data analytics projects using **Microsoft Excel**, with a focus on data cleaning, visualization, and dashboard creation.
 
@@ -20,7 +20,7 @@ This branch contains my data analytics projects using **Microsoft Excel**, with 
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 - Data cleaning & preprocessing in Excel  
 - Dashboard creation & visualization best practices  
 - Data storytelling through visuals  
